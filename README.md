@@ -1,2 +1,6 @@
-# Flutter_TheCompleteFlutter_Ui_Master_Class_Ios_And_Android_Web
+# Flutter The Complete Flutter UI Masterclass | iOS, Android, & Web
+
 learn from The Complete Flutter UI Masterclass | iOS, Android, &amp; Web : Udemy Course
+
+
+https://www.udemy.com/course/the-complete-flutter-ui-masterclass/
